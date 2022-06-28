@@ -1,0 +1,111 @@
+﻿<resources>
+  <string name="app_name">탐색기</string>
+  <string name="FMS_CMD_EXTEND_SD">sd</string>
+  <string name="FMS_CMD_EXTEND_SMD">usb</string>
+  <string name="FMS_CMD_EXTEND_SMD2">usb 2</string>
+  <string name="FMS_CMD_EXTEND_SMD3">usb 3</string>
+  <string name="FMS_CMD_EXTEND_SMD4">usb 4</string>
+  <string name="FMS_CMD_EXTEND_SMD5">usb 5</string>
+  <string name="FMS_CMD_EXTEND_SMD6">usb 6</string>
+  <string name="FMS_CMD_FLASH_DISK">flashdisk</string>
+  <string name="FMS_MENU_MSG_COPY">복사</string>
+  <string name="FMS_MENU_MSG_CUT">잘라내기</string>
+  <string name="FMS_MENU_MSG_DELETE">삭제</string>
+  <string name="FMS_MENU_MSG_FOLDER_CREATE">새 폴더</string>
+  <string name="FMS_MENU_MSG_INFO">등록 정보</string>
+  <string name="FMS_MENU_MSG_PASTE">붙여넣기</string>
+  <string name="FMS_MENU_MSG_RENAME">이름 변경</string>
+  <string name="FMS_MENU_MSG_SCAN">파일 검색</string>
+  <string name="FMS_MENU_MSG_UNZIP">압축풀기</string>
+  <string name="FMS_MENU_MSG_ZIP">압축하기</string>
+  <string name="FMS_ERR_COPY_FAILED" formatted="false">%d 개체 붙여넣기 실패</string>
+  <string name="FMS_ERR_DELETE_FAIL">삭제 실패</string>
+  <string name="FMS_ERR_EXIST_SAME_FILE">동일 파일 존재</string>
+  <string name="FMS_ERR_FILE_INPUT_WORNG">유효한 경로 아님</string>
+  <string name="FMS_ERR_FILE_NAME_IS_LONG">파일 이름이 255bytes를 초과하여 복사할 수 없습니다.</string>
+  <string name="FMS_ERR_FILE_NOT_EXSIST">존재하지 않는 파일</string>
+  <string name="FMS_ERR_FOLDER_SAME">동일 폴더 존재</string>
+  <string name="FMS_ERR_INPUT">입력 오류</string>
+  <string name="FMS_ERR_MAX_SIZE">4기가바이트 이상의 파일 복사는 지원하지 않습니다.</string>
+  <string name="FMS_ERR_NEW_FOLDER_FAILED">새 폴더 생성 실패</string>
+  <string name="FMS_ERR_NO_DISK">디스크 없음</string>
+  <string name="FMS_ERR_NOT_FILE">파일 없음</string>
+  <string name="FMS_ERR_NOT_FOLDER">폴더 없음</string>
+  <string name="FMS_ERR_NOT_SPECIAL_CHARACTER">특수 문자 안됨</string>
+  <string name="FMS_ERR_SD_CARD_LOCK">SD 카드가 쓰기 금지 상태입니다.</string>
+  <string name="FMS_ERR_SOURCE_TARGET_EQUAL">원본과 대상이 동일함</string>
+  <string name="FMS_ERR_SPACE_INSUFFICIENT">남은 용량이 부족합니다.</string>
+  <string name="FMS_FILE_INFO_ATTRIBUTE">속성:</string>
+  <string name="FMS_FILE_INFO_MSG_DATE">날짜:</string>
+  <string name="FMS_FILE_INFO_MSG_DISK_ALL_SPACE">전체 공간:</string>
+  <string name="FMS_FILE_INFO_MSG_DISK_FREE_SPACE">여유 공간:</string>
+  <string name="FMS_FILE_INFO_MSG_MSG_PROTECT">보호</string>
+  <string name="FMS_FILE_INFO_MSG_MSG_UNPROTECT">비보호</string>
+  <string name="FMS_FILE_INFO_MSG_TIME">시각:</string>
+  <string name="FMS_FILE_INFO_SIZE">크기:</string>
+  <string name="FMS_FILE_INFO_TYPE_FILE" formatted="false">%s 파일</string>
+  <string name="FMS_FILE_INFO_TYPE_FOLDER" formatted="false">폴더. %d 폴더 %d 파일 있음</string>
+  <string name="FMS_FILE_SCAN_MSG_CURRENT_FOLDER">현재 폴더</string>
+  <string name="FMS_FILE_SCAN_MSG_NAME_LABEL">찾을 파일명?</string>
+  <string name="FMS_FILE_SCAN_MSG_SUBFOLDER_LABEL">하위폴더 검색</string>
+  <string name="FMS_FILE_SCAN_MSG_TARGET_DISK_LABEL">대상 경로:</string>
+  <string name="FMS_FILE_SCAN_MSG_WORK">검색 중</string>
+  <string name="FMS_MSG_CANCEL">취소</string>
+  <string name="FMS_MSG_COPY_DUPLICATE">복사</string>
+  <string name="FMS_MSG_DELETE_COMPLETED">삭제 완료</string>
+  <string name="FMS_MSG_DISK_INSERT">삽입</string>
+  <string name="FMS_MSG_DISK_REMOVE">제거</string>
+  <string name="FMS_MSG_EXPLORER_OPEN">탐색 모드 시작</string>
+  <string name="FMS_MSG_FILE_COPYING">복사 중</string>
+  <string name="FMS_MSG_FILE_CUTTING">잘라내기</string>
+  <string name="FMS_MSG_FILE_DELETE_SURE" formatted="false">%s 개체 삭제?</string>
+  <string name="FMS_MSG_FILE_DELETING">삭제 중</string>
+  <string name="FMS_MSG_FILE_EXIST" formatted="false">%s 파일 있음. 덮어쓰기?</string>
+  <string name="FMS_MSG_FILE_MOVING">이동 중</string>
+  <string name="FMS_MSG_FILE_PASTING">붙여넣기 중</string>
+  <string name="FMS_MSG_FILES_DELETE_SURE" formatted="false">%s 파일 삭제?</string>
+  <string name="FMS_MSG_FOLDER_DELETE">선택한 폴더 삭제?</string>
+  <string name="FMS_MSG_FOLDER_DELETE_SURE" formatted="false">%s 폴더 삭제?</string>
+  <string name="FMS_MSG_LOADING_FILE_INFO">파일 정보 읽는 중...</string>
+  <string name="FMS_MSG_NEW_FOLDER_COMPLETE">새 폴더 생성 완료</string>
+  <string name="FMS_MSG_NEW_FOLDER_DEFAULT">새 폴더</string>
+  <string name="FMS_MSG_NEW_FOLDER_LABEL">새 폴더 이름?</string>
+  <string name="FMS_MSG_OBJECTS_DELETE_SURE" formatted="false">%s 개체 삭제?</string>
+  <string name="FMS_MSG_PASTE_COMPLETED" formatted="false">%d 개체 붙여넣기 완료</string>
+  <string name="FMS_MSG_RENAME_COMPLETED">이름 변경 완료</string>
+  <string name="FMS_MSG_RENAME_FILE_LABEL">새 파일 이름?</string>
+  <string name="FMS_MSG_RENAME_FOLDER_LABEL">새 폴더 이름?</string>
+  <string name="FMS_MSG_SOURCE_TARGET_EQUAL" formatted="false">%s 폴더 있음. 덮어쓰기?</string>
+  <string name="FMS_MSG_TYPE_ALL_FILES">모든 파일</string>
+  <string name="FMS_MSG_TYPE_BOOK_READER_FILE">북리더 파일</string>
+  <string name="FMS_MSG_TYPE_BOOK_READER_FOLDER">북리더 폴더</string>
+  <string name="FMS_MSG_TYPE_COMPRESS_FILE">압축 파일</string>
+  <string name="FMS_MSG_TYPE_DAISY_CONTENT">데이지 컨텐츠</string>
+  <string name="FMS_MSG_TYPE_DAISY_FOLDER">데이지 폴더</string>
+  <string name="FMS_MSG_TYPE_MEDIA_FILE">미디어 파일</string>
+  <string name="FMS_MSG_TYPE_MEDIA_FOLDER">미디어 폴더</string>
+  <string name="FMS_MSG_TYPE_MIXED_FOLDER">혼합된 콘텐츠 폴더</string>
+  <string name="FMS_MSG_TYPE_UNKNOWN_FILE">알수 없는 파일</string>
+  <string name="FMS_MSG_TYPE_UNKNOWN_FOLDER">폴더</string>
+  <string name="FMS_MSG_TYPE_VBF_FILE">VBF 파일</string>
+  <string name="FMS_MSG_WARNING_CHANGE_FILE_EXT">파일명의 확장자를 바꾸면 사용할 수 없게 될 수도 있습니다. 바꾸시겠습니까?</string>
+  <string name="FMS_UNZIP_ERR_BAD_PASSWORD">비밀번호 불일치</string>
+  <string name="FMS_UNZIP_ERR_READ_FAIL_COUNT" formatted="false">%d 개의 손상된 파일이 존재합니다.</string>
+  <string name="FMS_UNZIP_MSG_FOLDER_LABEL">압축풀 폴더명</string>
+  <string name="FMS_UNZIP_MSG_PWD">암호</string>
+  <string name="FMS_ZIP_ERR_NOT_FOUND">압축 파일을 찾을수 없음.</string>
+  <string name="FMS_ZIP_ERR_NOT_INITED">비정상적인 압축 파일임.</string>
+  <string name="FMS_ZIP_MSG_CANCEL">파일 압축 취소.</string>
+  <string name="FMS_ZIP_MSG_COMPLETE">개 파일 압축 완료</string>
+  <string name="FMS_ZIP_MSG_COMPLETE_DECOMPLETE">압축 해제 완료</string>
+  <string name="FMS_ZIP_MSG_DEFLATING">압축 중</string>
+  <string name="FMS_ZIP_MSG_FILE_LABEL">압축 파일명</string>
+  <string name="FMS_ZIP_MSG_INFLATING">압축 푸는 중</string>
+  <string name="FMS_ERR_OPEN_MIXED_FOLDER">혼합 콘텐츠입니다. 하위 폴더로 진입해 대상 파일을 선택하세요.</string>
+  <string name="FMS_MSG_DISK_NAME_LABEL">디스크 이름:</string>
+  <string name="FMS_FILE_INFO_TYPE">종류:</string>
+  <string name="COMMON_MSG_PROMPT_NO">아니오</string>
+  <string name="COMMON_MSG_PROMPT_YES">예</string>
+  <string name="COMMON_MSG_PROMPT_YES_TO_ALL">모두 예</string>
+  <string name="COMMON_MSG_CANCEL">취소</string>
+</resources>

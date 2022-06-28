@@ -1,0 +1,111 @@
+﻿<resources>
+  <string name="app_name">File Manager</string>
+  <string name="FMS_CMD_EXTEND_SD">sd</string>
+  <string name="FMS_CMD_EXTEND_SMD">USB</string>
+  <string name="FMS_CMD_EXTEND_SMD2">USB 2</string>
+  <string name="FMS_CMD_EXTEND_SMD3">USB 3</string>
+  <string name="FMS_CMD_EXTEND_SMD4">USB 4</string>
+  <string name="FMS_CMD_EXTEND_SMD5">USB 5</string>
+  <string name="FMS_CMD_EXTEND_SMD6">USB 6</string>
+  <string name="FMS_CMD_FLASH_DISK">flashdisk</string>
+  <string name="FMS_MENU_MSG_COPY">Copy</string>
+  <string name="FMS_MENU_MSG_CUT">Cut</string>
+  <string name="FMS_MENU_MSG_DELETE">Delete</string>
+  <string name="FMS_MENU_MSG_FOLDER_CREATE">New Folder</string>
+  <string name="FMS_MENU_MSG_INFO">Information</string>
+  <string name="FMS_MENU_MSG_PASTE">Paste</string>
+  <string name="FMS_MENU_MSG_RENAME">Rename</string>
+  <string name="FMS_MENU_MSG_SCAN">Search For File</string>
+  <string name="FMS_MENU_MSG_UNZIP">Unzip</string>
+  <string name="FMS_MENU_MSG_ZIP">Zip</string>
+  <string name="FMS_ERR_COPY_FAILED" formatted="false">%d objects copy failed</string>
+  <string name="FMS_ERR_DELETE_FAIL">Unable to delete.</string>
+  <string name="FMS_ERR_EXIST_SAME_FILE">File already exists.</string>
+  <string name="FMS_ERR_FILE_INPUT_WORNG">Invalid path.</string>
+  <string name="FMS_ERR_FILE_NAME_IS_LONG">File name is too long more than 255bytes.</string>
+  <string name="FMS_ERR_FILE_NOT_EXSIST">The file does not exist.</string>
+  <string name="FMS_ERR_FOLDER_SAME">This folder already exists.</string>
+  <string name="FMS_ERR_INPUT">Input error.</string>
+  <string name="FMS_ERR_MAX_SIZE">Cannot copy files larger than 4GB.</string>
+  <string name="FMS_ERR_NEW_FOLDER_FAILED">New folder creation failed.</string>
+  <string name="FMS_ERR_NO_DISK">no disk</string>
+  <string name="FMS_ERR_NOT_FILE">no file</string>
+  <string name="FMS_ERR_NOT_FOLDER">no folder</string>
+  <string name="FMS_ERR_NOT_SPECIAL_CHARACTER">Special character may not be used.</string>
+  <string name="FMS_ERR_SD_CARD_LOCK">The SD card is write protected.</string>
+  <string name="FMS_ERR_SOURCE_TARGET_EQUAL">Source and target are the same.</string>
+  <string name="FMS_ERR_SPACE_INSUFFICIENT">Insufficient space</string>
+  <string name="FMS_FILE_INFO_ATTRIBUTE">Attribute:</string>
+  <string name="FMS_FILE_INFO_MSG_DATE">Date:</string>
+  <string name="FMS_FILE_INFO_MSG_DISK_ALL_SPACE">Total space:</string>
+  <string name="FMS_FILE_INFO_MSG_DISK_FREE_SPACE">Remaining space:</string>
+  <string name="FMS_FILE_INFO_MSG_MSG_PROTECT">Read</string>
+  <string name="FMS_FILE_INFO_MSG_MSG_UNPROTECT">Write</string>
+  <string name="FMS_FILE_INFO_MSG_TIME">Time:</string>
+  <string name="FMS_FILE_INFO_SIZE">Size:</string>
+  <string name="FMS_FILE_INFO_TYPE_FILE" formatted="false">%s file</string>
+  <string name="FMS_FILE_INFO_TYPE_FOLDER" formatted="false">folder. %d folder(s) %d file(s) exist</string>
+  <string name="FMS_FILE_SCAN_MSG_CURRENT_FOLDER">Current folder</string>
+  <string name="FMS_FILE_SCAN_MSG_NAME_LABEL">file to search for:</string>
+  <string name="FMS_FILE_SCAN_MSG_SUBFOLDER_LABEL">Search sub-folders</string>
+  <string name="FMS_FILE_SCAN_MSG_TARGET_DISK_LABEL">Search in:</string>
+  <string name="FMS_FILE_SCAN_MSG_WORK">Searching...</string>
+  <string name="FMS_MSG_CANCEL">Cancel</string>
+  <string name="FMS_MSG_COPY_DUPLICATE">Copy</string>
+  <string name="FMS_MSG_DELETE_COMPLETED">Deleted.</string>
+  <string name="FMS_MSG_DISK_INSERT">inserted</string>
+  <string name="FMS_MSG_DISK_REMOVE">removed</string>
+  <string name="FMS_MSG_EXPLORER_OPEN">Explorer Open</string>
+  <string name="FMS_MSG_FILE_COPYING">Copying...</string>
+  <string name="FMS_MSG_FILE_CUTTING">Cut to clipboard</string>
+  <string name="FMS_MSG_FILE_DELETE_SURE" formatted="false">Delete %s?</string>
+  <string name="FMS_MSG_FILE_DELETING">Deleting...</string>
+  <string name="FMS_MSG_FILE_EXIST" formatted="false">File %s already exists. Overwrite?</string>
+  <string name="FMS_MSG_FILE_MOVING">Moving...</string>
+  <string name="FMS_MSG_FILE_PASTING">Pasting...</string>
+  <string name="FMS_MSG_FILES_DELETE_SURE" formatted="false">Delete %s files?</string>
+  <string name="FMS_MSG_FOLDER_DELETE">Delete selected file?</string>
+  <string name="FMS_MSG_FOLDER_DELETE_SURE" formatted="false">Delete %s folder?</string>
+  <string name="FMS_MSG_LOADING_FILE_INFO">Loading file information...</string>
+  <string name="FMS_MSG_NEW_FOLDER_COMPLETE">New folder created</string>
+  <string name="FMS_MSG_NEW_FOLDER_DEFAULT">new folder</string>
+  <string name="FMS_MSG_NEW_FOLDER_LABEL">New folder name:</string>
+  <string name="FMS_MSG_OBJECTS_DELETE_SURE" formatted="false">Delete %s objects?</string>
+  <string name="FMS_MSG_PASTE_COMPLETED" formatted="false">%d objects copied</string>
+  <string name="FMS_MSG_RENAME_COMPLETED">Rename complete.</string>
+  <string name="FMS_MSG_RENAME_FILE_LABEL">New file name:</string>
+  <string name="FMS_MSG_RENAME_FOLDER_LABEL">New folder name:</string>
+  <string name="FMS_MSG_SOURCE_TARGET_EQUAL" formatted="false">Folder %s exists. Overwrite?</string>
+  <string name="FMS_MSG_TYPE_ALL_FILES">All Files</string>
+  <string name="FMS_MSG_TYPE_BOOK_READER_FILE">Book Reader File</string>
+  <string name="FMS_MSG_TYPE_BOOK_READER_FOLDER">Document Folder</string>
+  <string name="FMS_MSG_TYPE_COMPRESS_FILE">Compressed File</string>
+  <string name="FMS_MSG_TYPE_DAISY_CONTENT">Daisy Content</string>
+  <string name="FMS_MSG_TYPE_DAISY_FOLDER">Daisy Folder</string>
+  <string name="FMS_MSG_TYPE_MEDIA_FILE">Media File</string>
+  <string name="FMS_MSG_TYPE_MEDIA_FOLDER">Media Folder</string>
+  <string name="FMS_MSG_TYPE_MIXED_FOLDER">Mixed Folder</string>
+  <string name="FMS_MSG_TYPE_UNKNOWN_FILE">Unknown File Type</string>
+  <string name="FMS_MSG_TYPE_UNKNOWN_FOLDER">Unknown Folder Type</string>
+  <string name="FMS_MSG_TYPE_VBF_FILE">VBF File</string>
+  <string name="FMS_MSG_WARNING_CHANGE_FILE_EXT">Changing a file extension could make the file unusable. Do you still want to change the name?</string>
+  <string name="FMS_UNZIP_ERR_BAD_PASSWORD">Password mismatch</string>
+  <string name="FMS_UNZIP_ERR_READ_FAIL_COUNT" formatted="false">%d damaged files exist.</string>
+  <string name="FMS_UNZIP_MSG_FOLDER_LABEL">Unzip to folder name</string>
+  <string name="FMS_UNZIP_MSG_PWD">Password</string>
+  <string name="FMS_ZIP_ERR_NOT_FOUND">File not found in zip file.</string>
+  <string name="FMS_ZIP_ERR_NOT_INITED">Zip-bug: Internal initialisation not completed.</string>
+  <string name="FMS_ZIP_MSG_CANCEL">Cancel zip.</string>
+  <string name="FMS_ZIP_MSG_COMPLETE">File compressed successfully.</string>
+  <string name="FMS_ZIP_MSG_COMPLETE_DECOMPLETE">Successfully extracted.</string>
+  <string name="FMS_ZIP_MSG_DEFLATING">Zipping</string>
+  <string name="FMS_ZIP_MSG_FILE_LABEL">Zip file name</string>
+  <string name="FMS_ZIP_MSG_INFLATING">Extracting</string>
+  <string name="FMS_ERR_OPEN_MIXED_FOLDER">Mixed Folder. Go to subfolder and select the file.</string>
+  <string name="FMS_MSG_DISK_NAME_LABEL">Disk Name:</string>
+  <string name="FMS_FILE_INFO_TYPE">Type:</string>
+  <string name="COMMON_MSG_PROMPT_NO">No</string>
+  <string name="COMMON_MSG_PROMPT_YES">Yes</string>
+  <string name="COMMON_MSG_PROMPT_YES_TO_ALL">Yes to all</string>
+  <string name="COMMON_MSG_CANCEL">Cancel</string>
+</resources>
